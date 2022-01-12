@@ -12,7 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/cobidev/simplefolio",
+    "homepage": "http://dockeryapril.github.io/portfolio"
+
   },
   "keywords": [],
   "author": "Jacobo Martinez",
