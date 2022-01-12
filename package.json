@@ -18,7 +18,7 @@
   "bugs": {
   "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "https://dockeryapril.github.io/portfolio/",
+  "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "parcel": "^2.0.1",
