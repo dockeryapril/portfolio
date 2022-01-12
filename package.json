@@ -16,7 +16,7 @@
   "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-  "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/cobidev/simplefolio/issues"
   },
   "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
