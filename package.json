@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/cobidev/simplefolio",
+    "homepage": "http://dockeryapril.github.io/portfolio"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+  "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "http://dockeryapril.github.io/portfolio",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "gh-pages": "^3.2.3",
