@@ -1,2 +1,2 @@
 # portfolio
-Hi, I'm April, your next junior front-end developer
+Hi, I'm April, your next front-end developer.
